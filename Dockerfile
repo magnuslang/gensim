@@ -1,5 +1,5 @@
 #FROM tallestman/scikit-learn
-FROM ai-image
+FROM tallestman/scikit-learn
 
 LABEL \
     org.label-schema.docker.dockerfile="/Dockerfile" \
